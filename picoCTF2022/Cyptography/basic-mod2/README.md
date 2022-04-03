@@ -6,4 +6,4 @@ Une recherche sur google peut vous donner plus de connaissance sur le sujet.
 
 Au python le travail !!!
 
-<img src='cap.phg' />
+<img src='cap.png' />
