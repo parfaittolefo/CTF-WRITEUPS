@@ -1,3 +1,3 @@
-Is s'agit de problème basic de programmation.
+**Sans la programmation, vous n'êtes pas un bon hacker !**
 
-Attaquer python et obtenez le flag
+Python est le préféré !!!
