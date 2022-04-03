@@ -2,4 +2,4 @@
 
 Python est le préféré !!!
 
-<img src='cap.pgn'/>
+<img src='cap.png' />
