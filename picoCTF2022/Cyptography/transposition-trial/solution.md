@@ -17,7 +17,7 @@ heTfl g as iicpCTo{7F4NRP051N5_16_35P3X51N3_V6E5926A}4
 
 `ag ` vs `g a`
 
-Notez bien que les espaces vides sont comptés comme un caratètre.
+Notez bien que les espaces vide sont comptés comme un caratère.
 
 On remaque de cela que la première lettre du trio est envoyée à la fin du mot (le trio)
 
